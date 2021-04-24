@@ -1,16 +1,13 @@
-### Hi there 👋
+<a href="/teste">
+    Salve, sou o Matheus Faggi 
+</a>
 
-<!--
-**matheusfaggi/matheusfaggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, no último semestre 🚀️
+  Entusiasta de tecnologias devops, javascript e ruby, tenho estudado tecnologias como ruby on rails, ecossistema react, vuejs, cucumber + capybara entre outros. 🔭️
+  Atuei como Analista MIS, automatizando relatório com VBA, mariadb, SQL Server, Telegram bot com nodejs, Grafana. 
+  E hoje sou desenvolvedor web/mobile jr na BR Media Group, atuante no mercado de marketing de influenciadores.
+</p>
