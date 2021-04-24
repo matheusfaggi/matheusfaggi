@@ -1,10 +1,9 @@
-<a href="/teste">
-    Salve, sou o Matheus Faggi 
-</a>
+<h2>
+    Olá, 
+</h2>
 
 <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" />
-
-
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <p>
   Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, no último semestre 🚀️
   Entusiasta de tecnologias devops, javascript e ruby, tenho estudado tecnologias como ruby on rails, ecossistema react, vuejs, cucumber + capybara entre outros. 🔭️
