@@ -29,7 +29,9 @@
 <h2>
   frontend
 </h2>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<div>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style/>
 
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
 
@@ -42,7 +44,7 @@
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white" />
-
+<div> 
 <h2>
   backend
 </h2>
