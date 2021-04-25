@@ -1,5 +1,5 @@
 <h1>
-    Salve! Eu sou o Matheus Faggi
+  Salve! Eu sou o Matheus Faggi
 </h1>
 <p>
   Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, no último semestre. Entusiasta de tecnologias devops, javascript, tenho estudado ruby on rails, ecossistema react, vuejs, cucumber + capybara entre outros.
