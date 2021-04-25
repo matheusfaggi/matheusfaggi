@@ -43,6 +43,8 @@
  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white" />
 </div>
 
+
+---
 ![Matheus Faggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfaggi&theme=slateorange&show_icons=true)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusfaggi&compact_layout=true)
