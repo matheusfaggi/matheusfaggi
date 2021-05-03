@@ -2,7 +2,7 @@
   Salve! Eu sou o Matheus Faggi
 </h1>
 <p>
-  Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, no último semestre. Entusiasta de tecnologias devops, javascript, tenho estudado ruby on rails, ecossistema react, vuejs, cucumber + capybara entre outros.
+  Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, no último semestre. Entusiasta de tecnologias devops, javascript, tenho estudado ruby on rails, ecossistema react, cucumber + capybara entre outros.
 </p>
 <p>
   Atuei como Analista MIS, automatizando relatório com VBA, mariadb, SQL Server, Telegram bot com nodejs, Grafana. 
