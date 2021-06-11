@@ -47,4 +47,3 @@
 ---
 ![Matheus Faggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfaggi&theme=slateorange&show_icons=true)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusfaggi&compact_layout=true)
